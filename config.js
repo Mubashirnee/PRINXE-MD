@@ -27,7 +27,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
+global.mods = ['923452836936'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -125,9 +125,17 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 //Sticker WM
 global.botname = process.env.BOT_NAME
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
+global.princebot = '🛡️🔮𝗪𝗛𝗔𝗧𝗦𝗔𝗣 𝗕𝗢𝗧 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘🔮
+
+𝗝𝗜𝗦𝗞𝗢 𝗟𝗔𝗚𝗪𝗔𝗡𝗜 𝗜𝗡𝗕𝗢𝗫 𝗥𝗔𝗕𝗧𝗔 𝗞𝗔𝗥𝗬 
+
+*ONLY PAID*
+𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥➳
+[[𝗠𝗨𝗕𝗔𝗦𝗛𝗜𝗥]]♥️🌍🔐
+
+https://wa.me/qr/6YPETWZKHC56J1🛡️'
 global.packname = process.env.PACK_NAME
-global.author = 'Prince♥️' 
+global.author = '||•MUBASHIR RAJPUT•||🖤🥀' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
